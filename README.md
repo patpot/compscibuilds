@@ -1,2 +1,0 @@
-# compscibuilds
-comp sci builds
